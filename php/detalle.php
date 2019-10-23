@@ -19,4 +19,3 @@ echo "<tr>
 		<th colspan='3'>Total a pagar</th>
 		<th>S./ $total nuevos soles.</th>
 	</tr>";
-?>

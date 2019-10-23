@@ -7,4 +7,3 @@ $clave = "";
 
 $cadena = "$driver:host=$servidor;dbname=$base";
 $cnx = new pdo($cadena,$usuario,$clave);
-?>

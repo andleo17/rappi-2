@@ -11,4 +11,3 @@ while($reg=$rs->fetchObject()){
 			<td><button type='button' onclick='agregar($reg->idproducto,$reg->precio)' class='btn btn-success'>Agregar</button></td>
 		  </tr>";
 }
-?>

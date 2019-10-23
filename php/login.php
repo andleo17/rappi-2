@@ -16,4 +16,3 @@ if($cant==1) {
 } else $datos['ok'] = 0;
 
 echo json_encode($datos);
-?>

@@ -43,4 +43,3 @@ try
 	$resp=0; 
 }
 echo $resp;
-?>
